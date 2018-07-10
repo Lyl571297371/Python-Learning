@@ -1,0 +1,4 @@
+I love python!
+Python is very useful!
+Python 牛逼！
+Python 是一门解释性语言。
